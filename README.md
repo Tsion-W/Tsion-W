@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tsion 👋  
+Data Analyst passionate about bridging data and decision-making.  
+Skilled in Python, SQL, Power BI, and AWS.  
 
-<!--
-**Tsion-W/Tsion-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+- 📊 Summer Camp Operations & Financial Analytics Dashboard
+- 🧹 Ethiopian Text Data Cleaner Tool
+- ☁️ Cloud-Based Machine Learning Enhancement
+- 🔢 Arabic-to-Geez Number Converter App
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- Email: tsionwubale22@gmail.com
+- LinkedIn: [Your LinkedIn Link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
