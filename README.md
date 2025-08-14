@@ -10,5 +10,5 @@ Skilled in Python, SQL, Power BI, and AWS.
 
 ## 📫 How to reach me
 - Email: tsionwubale22@gmail.com
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: linkedin.com/in/tsiongetachew
 
